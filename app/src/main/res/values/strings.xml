@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="type_like">Digite o seu nome</string>
+    <string name="click_here">Clique aqui</string>
+    <string name="clear_button">Limpar</string>
+    <string name="welcome_messages">Olá %1$s</string>
+</resources>
